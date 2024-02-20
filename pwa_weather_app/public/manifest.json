@@ -12,6 +12,10 @@
     "display": "standalone",
     "theme_color": "#000000",
     "background_color": "#ffffff",
-    "maskableIcon": "/images/maskable-icon.png"
-       
+    "maskableIcon": {
+        "src": "/images/maskable_icon.png",
+        "sizes": "192x192",
+        "type": "image/png",
+        "purpose": "maskable"
+      }
 }
